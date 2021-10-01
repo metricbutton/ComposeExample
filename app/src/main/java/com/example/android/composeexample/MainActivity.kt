@@ -60,6 +60,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+//Add CardImage
 @Composable
 fun ImageCard(
     painter: Painter,
